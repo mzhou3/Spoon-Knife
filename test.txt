@@ -1,1 +1,2 @@
-# started first edit
+# started first edit at local repository
+# 2nd edit in remote repository directly
